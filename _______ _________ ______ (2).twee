@@ -1,0 +1,25 @@
+:: StoryTitle
+Новелла Гришакова Вадима
+
+
+:: StoryData
+{
+  "ifid": "76BC49FD-F91C-409F-923D-A4EDE282D19C",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Безымянный параграф",
+  "zoom": 1
+}
+
+
+:: Безымянный параграф {"position":"700,300","size":"100,100"}
+Пролог
+https://colab.research.google.com/drive/1KecbJy81OSrE-6RJJmduiCdq-mTbXMBY?usp=drive_link
+
+
+:: Безымянный параграф 1 {"position":"900,375","size":"100,100"}
+
+
+
+:: StoryScript [script]
+https://colab.research.google.com/drive/1KecbJy81OSrE-6RJJmduiCdq-mTbXMBY?usp=drive_link
