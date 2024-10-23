@@ -6,6 +6,6 @@ https://docs.google.com/document/d/1mBO5QPpUr7XZW0E4jPYEjwPVdUzDz20oB0gP208jsEU/
 
 Справка Ермилова. https://drive.google.com/drive/folders/1Gxo3A_VYBDQNeaOk02SkvXRyG_RR09Df?usp=sharing
 
-Twine Новелла. https://twinery.org/2/#/stories/fb09e3eb-e5ae-4615-808d-717ef7159c17
+Twine Новелла. https://twinery.org/2/#/stories/f2c327c8-1f52-48d8-9e01-0025834f861c
 
 Презентация (Конкурс). https://docs.google.com/presentation/d/16_iji6Sp-tXRYQes16qOhFjwU06ukLeI/edit?usp=drive_link&ouid=106807293236930406155&rtpof=true&sd=true
