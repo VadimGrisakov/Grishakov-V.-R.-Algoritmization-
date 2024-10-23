@@ -84,7 +84,9 @@ src=https://drive.usercontent.google.com/download?id=1VIXOOiCYPDU4XPSGy-ERItAJuM
 
 
 :: \ После уборки [room] {"position":"650,600","size":"100,100"}
-
+Закончена уборка. Вижу моих родителей нет. Они ушли по делам. Расскажу я им о хороших добрых делам, но что мне делать дальше? Удивить или балдеть?
+[[Приготовить вкусный сюрприз]]
+[[Балдеть]]
 
 
 :: \ Почти на месте [mall] {"position":"1025,1025","size":"100,100"}
@@ -130,6 +132,10 @@ src=https://drive.usercontent.google.com/download?id=1pt-62u8hvmqdVc6XGE2b_YxUHS
 
 <img
 src=https://i.postimg.cc/3x42qfD3/image.png.jpg>
+
+
+:: Балдеть {"position":"575,725","size":"100,100"}
+
 
 
 :: В лесу [forest] {"position":"1525,750","size":"100,100"}
@@ -281,6 +287,10 @@ src=https://i.postimg.cc/RhFdq6cG/image.png>
 Докуда мне идти?
 [[До торгового центра]]
 [[До кафе]]
+
+
+:: Приготовить вкусный сюрприз {"position":"725,725","size":"100,100"}
+
 
 
 :: С удовольствием. Когда мои родители разрешат. [street] {"position":"1175,1400","size":"100,100"}
