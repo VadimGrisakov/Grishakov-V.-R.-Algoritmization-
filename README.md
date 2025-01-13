@@ -3,6 +3,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5Z3lkMWhtdW5vZHJkNjkwaGQ2b202dWtnOGFsMzV2ODcwOG9wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.webp" width="400"/>
 </div>
 
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
 Гришаков. https://docs.google.com/document/d/1mBO5QPpUr7XZW0E4jPYEjwPVdUzDz20oB0gP208jsEU/edit?usp=sharing
 
 Доска. https://drive.google.com/drive/folders/1DRrrdssQkYykkUDUV2BA9nH5ivAKDS7J?dmr=1&ec=wgc-drive-hero-goto
