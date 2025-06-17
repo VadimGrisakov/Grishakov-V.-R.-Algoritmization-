@@ -24,3 +24,5 @@
 Twine Новелла. https://twinery.org/2/#/stories/f2c327c8-1f52-48d8-9e01-0025834f861c
 
 Презентация (Конкурс). https://docs.google.com/presentation/d/16_iji6Sp-tXRYQes16qOhFjwU06ukLeI/edit?usp=drive_link&ouid=106807293236930406155&rtpof=true&sd=true
+
+Задание по конкурсам. https://colab.research.google.com/drive/1_bOpAyZXzTNDWOYK4tWN0qUCtRNafTSP#scrollTo=dB2z3LUqegS6
